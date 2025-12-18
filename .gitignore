@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 node_modules
 .env
-=======
 # Dependencies
 node_modules/
 
@@ -60,4 +58,3 @@ supabase/.temp/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
->>>>>>> a9ae150 (Re-structure repo: move frontend and backend into separate folders)
